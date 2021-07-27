@@ -12,10 +12,10 @@ ipywidgets==7.6.3
 jedi==0.17.0
 
 jupyter-server==1.9.0
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+
 jupyterlab-widgets==1.0.0
 kiwisolver==1.3.1
-MarkupSafe @ file:///C:/ci/markupsafe_1621528314575/work
+
 matplotlib==3.4.2
 mistune==0.8.4
 mysql-connector-python==8.0.25
@@ -25,20 +25,15 @@ nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
 nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
 notebook @ file:///C:/ci/notebook_1621528634641/work
 numpy==1.21.0
-packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
+
 pandas==1.2.5
-pandocfilters @ file:///C:/ci/pandocfilters_1605102497129/work
-parso @ file:///tmp/build/80754af9/parso_1617223946239/work
-pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+
 Pillow==8.3.0
 prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1623189609245/work
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
 protobuf==3.17.3
-pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
-Pygments @ file:///tmp/build/80754af9/pygments_1621606182707/work
-pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
-pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
-python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+
+
 pytz==2021.1
 pywin32==227
 pywinpty==0.5.7
@@ -47,16 +42,12 @@ requests==2.25.1
 requests-unixsocket==0.2.0
 scipy==1.7.0
 seaborn==0.11.1
-Send2Trash @ file:///tmp/build/80754af9/send2trash_1607525499227/work
-six @ file:///tmp/build/80754af9/six_1623709665295/work
+
 sniffio==1.2.0
 terminado==0.9.4
-testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
-tornado @ file:///C:/ci/tornado_1606942392901/work
-traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
+
 urllib3==1.26.6
 voila==0.2.10
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 websocket-client==1.1.0
 widgetsnbextension==3.5.1
